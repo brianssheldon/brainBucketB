@@ -2,5 +2,7 @@ runtime: php55
 api_version: 2
 
 handlers:
+- url: /bad_word.*
+  script: bad_word.php
 - url: /.*
   script: helloworld.php
