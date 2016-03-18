@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brainbucketb",
+  "private_key_id": "456d025fbf47349d44a77a864cd648a9a0cf312f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCR8tnljdBzjfja\n7cVUzHzh4OZ13rlQBWFLJ0nONRFOYujPDnWTcWveV+djfAlfj75Tg5P3hF/+b4Aw\nbolm+/kxxyoTG36ir73FcPAm+b7Lwiq5pnhefBlE6uE9AbeeYFyVYDTsEXD5GJZk\nj1sAbwF6l8/Yiw7ErNf3kTZMJ08e1DwROtJP59uVs+B8i/y+/ped8DMsqqnLhJPB\noiwI43/9dpBE+T5XdqL9/gfutQUoc3zSXWoUyD9KPAMs8lkG72TK9lQF2liX5ivu\n89OJ2xU3rlxpGZWSn18BhGuhmtLLi3yUgHMS31ywG0LS6e4KxCkHyF5rVqaXhFg1\ncj504G9LAgMBAAECggEANn+Qjf9ej0e8XUPcI8YX++CXLfx1BkR8CCwriyyVwcd9\nV5P2o4/+z4/Tf3qZpW1vjI/deNedYM0R+QPNmv8MFmJge7IQn38wRcHeay9m538h\npSFcYSvF484xPS6e+izRZZX/LQd2QA3GWtaNDKRm0PhPTHTgluBT5MX8mIM1MDVL\nwV2kRevHL2eUKvjPCWWQHt69u6CgaepM2ExqZX1Xs3LJar7tDyC9Ypf0J4Kb0GoX\nN517m1nxa2hIuQBJ7Ylt66PRCALvysnETb/C7Ou1+Io1OMbT2IeSt9E/QAHJd0xW\n8C0EhbNrVxTWDWCwIrMdd1FMviqDvCNc/E8OERN9wQKBgQD0WlIZJvf5kT407jDF\ndSUgdFM7pyI9rHFC63ozWjJb7tpgtpXXgqn9xlNLsxcUCU6yRHNl3HljyXneIET/\n6P5lzbuNLIKNRiSw/sQE/CIxkgYxZ2DHtbxsCoS3N17NFQVzJUZKPex3ctqxsYgO\nx2+PRvo27lEjlCvsHaP6BgQNfQKBgQCY58SYUTCv8GM4tc4DoValZTXmQdjNwhH9\nX3lfAyKmhH/uo/nfskJuHcBsZo/DkGURKzKKMePFb+tcBMzIsfMNVJTGjtHQB5el\nX3LVXfNwsyDz01ERJ3//GxxAfqSzL48Chl4DJN73imkEmJEDobIpVd2YDbmWW+Vs\ng83S85KqZwKBgGE5Psk7NBdcrv+odkdaoPcU0bk+euVHI5mYz/p2vOrPUpyAiYZC\nOxj6PFI2Y8xZF7LegXvaCYKmu5KiDFI2hmJDRYiaWSeU7Sxvcdb56zEGBOjLVTqh\nGON0G/I6WcIHxy9VeW44zUmJrXJeTOB0gfLkLtKEaExbvE4qTQBCPIKRAoGAf8JP\n8tEL9EXQMec+jqv1ANdzVMQ6CZoZe/KVL/0nq6jUWCpssyt39Bgp2qlLgCUbPWAx\np2SOIz8jkcx061A8fCvq74kP6FkfrU72XS9WJBmX9ALiHoo5mYcmcQEgTpPzUzHA\nRbI+FulwXCW6LSWi/oS/VbhKFEcOiEAM7zEToAsCgYEA8OYW4z7EpyPwLq42Im9Q\nDMFSLU2pYhTa6TrWuSq5dg/f6DJhK2tx2+Kbhyg9UQ+GePqAf0CuWpBpo3EO94bu\nBX3GQ/KMJvWNZ7fE2//V+Ju3Yoc4Woz1uojYAREDMRYo1M/8zSVRDsPZJK+L9jy9\nLU16UWMnlLsyJ8MqqjIGADY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "brainbucketb@appspot.gserviceaccount.com",
+  "client_id": "115929633118886860278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brainbucketb%40appspot.gserviceaccount.com"
+}
