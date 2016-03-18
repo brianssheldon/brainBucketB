@@ -15,7 +15,7 @@ else {
   header('Location: ' . UserService::createLoginURL($_SERVER['REQUEST_URI']));
 }
 // [END elseuser]
->?
+?>
   <p>
   <html>
  <head>
